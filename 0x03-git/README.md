@@ -1,1 +1,1 @@
-My way to becoming a full stack programmer
+My way to becoming a full stack programmer updated
